@@ -39,7 +39,7 @@
     }
     
     .link:hover {
-      color: #5d7260;
+      color: #084912;
     }
   
   * {
@@ -49,7 +49,6 @@
   .header {
       border: 1px solid red;
     }
-  }
   
   .main {
       border: 1px solid blue;
@@ -105,8 +104,9 @@
       transition: .3s;
       cursor: pointer;
     }
-    :hover {
-        color: #151645;
+
+    .nav-link:hover {
+        color: #c12e0d;
     }
     .user__img {
       width: 160px;

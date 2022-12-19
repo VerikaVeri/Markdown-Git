@@ -63,8 +63,8 @@
     max-width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    text-align: left;
     }
 
    .main-container {
